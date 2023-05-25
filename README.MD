@@ -11,5 +11,3 @@ e tbem alterei a 1a linha, antes: Meu primeiro sistema no GIT
 
 25/05/2023 aula 11 fazendo alteracoes no repositorio remoto ! 17:17
 25/05/2023 aula 11 nova alteracao - 17:45
-
-25/05/2023 aula 13 - git revert - varias alteracoes
